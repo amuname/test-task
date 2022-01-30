@@ -1,4 +1,4 @@
-# test-task
+# тестовое Спецтех
 
 ## Project setup
 ```
@@ -15,10 +15,6 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Не собранный проект!
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Подготовленны модели данных в VueX Store, интерфейс через Vuetify, логика конроллеров оставлена т.к в прилагающемся ТЗ не требовалась
